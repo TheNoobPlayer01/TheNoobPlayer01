@@ -13,6 +13,7 @@
  - :house_with_garden: I'm from East Java, Indonesia, SouthEast Asia
  - :boy: I'm a Student who currenty learning how to program <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - :technologist: Currently Learning PHP, my goal is to learn PHP, JS, and Python
+ - Im currently 14 yrs old (soon 15)
  - My other socials [![Linktree Badge](https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge
 )](https://linktr.ee/thenoobplayer01)
 
@@ -27,8 +28,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20"/>&nbsp
 </div>
-
----
 
 ### :fire: My Stats
 
