@@ -21,3 +21,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" />&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" />&nbsp
 </div>
+
+---
+
+### :fire: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoobPlayer01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
