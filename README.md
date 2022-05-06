@@ -11,16 +11,17 @@
  - :technologist: Currently Learning PHP, my goal is to learn PHP, JS, and Python
  - My other socials [![Linktree Badge](https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge
 )](https://linktr.ee/thenoobplayer01)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" />&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20"/>&nbsp
 </div>
 
 ---
