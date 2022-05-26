@@ -24,6 +24,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20" height="20"/>&nbsp
 </div>
 
 ### :fire: My Stats
